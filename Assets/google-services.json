@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "833360952573",
+    "project_id": "unityservicios25",
+    "storage_bucket": "unityservicios25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833360952573:android:9e171cf8a945cbb78d1294",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.TabogoStrike"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQxsR3gUdiszd7Lh3YExMuWLk-4vW38vE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

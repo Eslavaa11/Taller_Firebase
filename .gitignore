@@ -1,0 +1,42 @@
+# ---- Unity / Visual Studio ----
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+.Gradle/
+.gradle/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.suo
+*.userprefs
+
+# Cache de paquetes y auto-generados
+Packages/com.unity.package-manager/ .
+ProjectSettings/MonoBehaviour/*
+
+# Crash/Reports
+sysinfo.txt
+
+# TextMesh Pro
+Assets/TextMesh Pro/**/Resources/Font_Asset_Creation_Settings.json
+
+# Addressables
+Assets/AddressableAssetsData/*/addressables_content_state.bin
+
+# Rider / JetBrains
+*.DotSettings.user
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Si usas Git LFS, los binarios grandes irían allí (opcional)
